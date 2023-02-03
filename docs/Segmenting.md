@@ -1,12 +1,12 @@
 # HOW-TO: Segmenting
 
-This instruction covers how to initially segment the text as part of [starting a new project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/Starting-New-Project.md) as well as how to re-segment source strings once the project has already been started.
+This instruction covers how to initially segment the text as part of [starting a new project](Starting-New-Project.md) as well as how to re-segment source strings once the project has already been started.
 
 ## Background
 
 ## Initial Segmenting
 
-Initial segmenting refers to the case where as part [starting a new project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/Starting-New-Project.md) one must segment the source text. 
+Initial segmenting refers to the case where as part [starting a new project](Starting-New-Project.md) one must segment the source text. 
 
 The current best-practice is to do it manually so that each segment to be translated is on its own line/row. It can be done automatically in various ways, but this is very strongly discouraged. Having the translator initially go through the source text to be translated breaking it down to translateable segments helps the translator and the translation project in multiple ways.
 
