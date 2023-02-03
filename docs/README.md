@@ -16,7 +16,7 @@ Then after that, you will be able to move onto setting up your first project. Th
 
 Assuming you already have Github, Discord, and Transifex accounts. Proceed with the following.
 
-[HOW-TO: One-Time Integration](One-Time-Integration.md)
+[HOW-TO: One-Time Integration](One-Time-Setup.md)
 
 ### 2.2. Things Repeated for Every Project
 

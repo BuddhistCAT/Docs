@@ -2,7 +2,7 @@
 
   - [How It Works](How-It-Works.md)
   - [Requirements](README.md#requirements)
-  - [One-Time Integration](One-Time-Integration.md)
+  - [One-Time Setup](One-Time-Setup.md)
 
 - Overview
 
