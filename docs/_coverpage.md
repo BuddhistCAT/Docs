@@ -5,6 +5,10 @@
 > Computer-assisted translation workflow for translating Tibetan buddhadharma texts
 
 [GitHub](https://github.com/BuddhistCAT/)
-[Getting Started](https://buddhistcat.github.io/docs/#/README)
+[Getting Started](https://buddhistcat.github.io/Docs/#/README)
 
 ![color](#f0f0f0)
+
+
+
+
