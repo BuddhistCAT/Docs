@@ -7,7 +7,7 @@
 [GitHub](https://github.com/BuddhistCAT/)
 [Getting Started](https://buddhistcat.github.io/Docs/#/README)
 
-![color](#f0f0f0)
+![color](#fff)
 
 
 
