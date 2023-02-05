@@ -14,10 +14,8 @@ Then after that, you will be able to move onto setting up your first project. Th
 
 ### 2.1. Things Done Just Once
 
-Assuming you already have Github, Discord, and Transifex accounts. Proceed with the following.
-
-[HOW-TO: One-Time Integration](One-Time-Setup.md)
+Assuming you already have Github, Discord, and Transifex accounts. Proceed with [HOW-TO: One-Time Integration](One-Time-Setup.md).
 
 ### 2.2. Things Repeated for Every Project
 
-Create your first project after carefully reading through the documentation titled [HOW-TO: Starting a New Project](Starting-New-Project.md)
+Create your first project after carefully reading through the documentation titled [HOW-TO: Starting a New Project](Starting-New-Project.md).
