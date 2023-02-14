@@ -10,6 +10,10 @@ Typically, there will arise the need for publishing the text that is being trans
 
 The styling classes as per the below reference, will be added to string pairs in Transifex whenever relevant (e.g. the pair is a title) by clicking the `Edit context` button in the translation view. Then in the opening text field, add the appropriate style class.
 
+<img width="367" alt="Screenshot 2023-02-14 at 11 25 26" src="https://user-images.githubusercontent.com/7943188/218694412-fc26338c-c461-4448-a7c9-a046b29ab101.png">
+
+The above image shows the location of the `Edit context` button in the Transifex translation view.
+
 ## Reference
 
 ### Classes  
