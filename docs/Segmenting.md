@@ -20,6 +20,6 @@ Sometimes the need to re-segment a particular segment arises in midst of already
 
 **In the case you want to merge more than two strings entirely,** then do exactly like In the case you want to merge two strings entirely explained above.
 
-**In the case you want to break down a segment**, mark the segment with [~] in the position you want to break it in. Make sure to mark the corresponding translated segment with [~] as well. Note that this will not result in the segment being visibly broken down into two segments inside Transifex, but the change will reflect in the publication phase. 
+**In the case you want to break down a segment**, mark the segment with `[~]` in the position you want to break it in. Make sure to mark the corresponding translated segment with `[~]` as well. Note that this will not result in the segment being visibly broken down into two segments inside Transifex, but the change will reflect in the publication phase. 
 
 These three, moving content from one segment to another, merging segments entirely, and breaking segments into parts, cover all possible cases for source string formatting during the translation project. So you can consider this instruction to be conclusive pertaining to this matter.
