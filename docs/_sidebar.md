@@ -8,6 +8,7 @@
 
   - [Creating New Project](Starting-New-Project.md)
   - [Segmenting](Segmenting.md)
+  - [Styling](Styling.md)
 
 - Troubleshooting
 
