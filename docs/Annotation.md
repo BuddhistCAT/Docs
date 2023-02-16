@@ -27,26 +27,18 @@ Comments is best used for communication between translators and pandiatas.
 
 Footnotes are placed on bottom of each page. 
 
-Footnotes can be added to any segment by clicking the `Edit context` button in the translation view. The below image shows the `Edit context` button in the Transifex translation view.
+Footnotes can be added inline to any segment using the following format. 
 
-<img width="494" alt="Screenshot 2023-02-16 at 12 15 26" src="https://user-images.githubusercontent.com/7943188/219336603-91d16945-e56a-4508-9be7-b518967be02e.png">
+`[FOOTNOTE: the content of the footnote]` or `[FOOT: the content of the footnote]`
 
-Then in the opening text field, add the footnote in the following format. 
-
-`[footnote] the content of the footnote`
-
-**NOTE:** The format must be exactly like in the above example i.e. `[footnote]` followed by the content of the footnote.
+**NOTE:** The format must be exactly like in the above example, but it does not matter if capital letters are used or not for declaring it.
 
 ## Instructions for Endnotes
 
 Endnotes are placed on bottom of each page. 
 
-Endnotes can be added to any segment by clicking the `Edit context` button in the translation view. The below image shows the `Edit context` button in the Transifex translation view.
+Endnotes can be added inline to any segment using the following format. 
 
-<img width="494" alt="Screenshot 2023-02-16 at 12 15 26" src="https://user-images.githubusercontent.com/7943188/219336603-91d16945-e56a-4508-9be7-b518967be02e.png">
+`[ENDNOTE: the content of the footnote]` or `[END: the content of the footnote]`
 
-Then in the opening text field, add the endnote in the following format. 
-
-`[endnote] the content of the endnote`
-
-**NOTE:** The format must be exactly like in the above example i.e. `[endnote]` followed by the content of the endnote.
+**NOTE:** The format must be exactly like in the above example, but it does not matter if capital letters are used or not for declaring it.
