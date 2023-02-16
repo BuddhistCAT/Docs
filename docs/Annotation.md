@@ -27,9 +27,17 @@ Comments is best used for communication between translators and pandiatas.
 
 Footnotes are placed on bottom of each page. 
 
-Footnotes can be added inline to any segment using the following format. 
+Footnotes can be added inline to any translated segment using the following format. 
 
 `[FOOTNOTE: the content of the footnote]` or `[FOOT: the content of the footnote]`
+
+So for example, if the translated segment otherwise is: 
+
+`I pay homage to Manjushri"
+
+Then with a footnote for the term homage, it becomes: 
+
+`I pay homage [FOOTNOTE: footnote content comes here] to Manjushri"
 
 **NOTE:** The format must be exactly like in the above example, but it does not matter if capital letters are used or not for declaring it.
 
@@ -37,8 +45,16 @@ Footnotes can be added inline to any segment using the following format.
 
 Endnotes are placed on bottom of each page. 
 
-Endnotes can be added inline to any segment using the following format. 
+Endnotes can be added at the end of any segment using the following format. 
 
 `[ENDNOTE: the content of the footnote]` or `[END: the content of the footnote]`
+
+So for example, if the translated segment otherwise is: 
+
+`I pay homage to Manjushri"
+
+Then with an endnote for the term homage, it becomes: 
+
+`I pay homage [ENDNOTE: endnote content comes here] to Manjushri"
 
 **NOTE:** The format must be exactly like in the above example, but it does not matter if capital letters are used or not for declaring it.
